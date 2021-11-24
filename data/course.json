@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ce2a794a-3bd9-f266-68f3-776c1b372455"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Robust System Design",
+  "course_description": "This course was created for the \"product development\" track of MIT's System Design and Management Program (SDM) in conjunction with the Center for Innovation in Product Development.\u00a0 After taking this course, a student should be able to:\n\n*   Formulate measures of performance of a system or quality characteristics. These quality characteristics are to be made robust to noise affecting the system.\n*   Sythesize and select design concepts for robustness.\n*   Identify noise factors whose variation may affect the quality characteristics.\n*   Estimate the robustness of any given design (experimentally and analytically).\n*   Formulate and implement methods to reduce the effects of noise (parameter design, active control, adjustment).\n*   Select rational tolerances for a design.\n*   Explain the role of robust design techniques within the wider context of the product development process.\n*   Lead product development activities that include robust design techniques.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.881",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
